@@ -34,3 +34,7 @@ print (f"Full Name: {full_name}")
 print (f"Age: {age}")
 print (f"Age in Months: {age_months}")
 print (f"Favourite Number: {rounded_favourite_number}") 
+
+
+name = input("What is you name?" )
+print("Hello" + name)
